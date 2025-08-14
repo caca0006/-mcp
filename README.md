@@ -18,8 +18,8 @@
 ### **1. 克隆代码仓库**
 
 ```
-git clone https://github.com/paulocoutinhox/doc-talk-ai.git
-cd doc-talk-ai
+[git clone https://github.com/paulocoutinhox/doc-talk-ai.git
+cd doc-talk-ai](https://github.com/caca0006/-mcp.git)
 ```
 
 ### **2. 创建虚拟环境**
